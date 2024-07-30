@@ -1,6 +1,6 @@
 # VGG16
 
-/includegraphics{VGG16_Structure.jpg}
+![plot](/screenshot/VGG16_Structure.png)
 
 ### 소개
 
