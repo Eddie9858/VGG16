@@ -1,6 +1,6 @@
 # VGG16
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/da5f1846-315f-41a5-94ed-37f9a35a24ce/35acc2dd-78bf-41ad-af84-6d27a5c3b9ff/Untitled.png)
+/includegraphics{VGG16_Structure.jpg}
 
 ### 소개
 
